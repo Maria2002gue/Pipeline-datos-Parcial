@@ -4,7 +4,7 @@
 Este repositorio contiene un flujo de trabajo **ETL** (Extract, Transform, Load) completo para analizar el impacto de los hábitos digitales en el bienestar de los adolescentes. El proyecto integra almacenamiento en GitHub, documentación técnica, visualización interactiva y lógica de orquestación.
 
 ## 🚀 Enlaces del Proyecto
-* **Landing Page git hub pages (Documentación ):** [file:///C:/Users/rosam/OneDrive/Documents/Pipeline-Datos/index.html]
+* **Landing Page git hub pages (Documentación ):** [https://maria2002gue.github.io/Pipeline-datos-Parcial/]
 * **Dashboard Interactivo (Streamlit):** [https://pipeline-datos-parcial-dppb75x5w6oh7dsvnkcw23.streamlit.app/]
 * **Repositorio (git hub):** [https://github.com/Maria2002gue/Pipeline-datos-Parcial]
 
