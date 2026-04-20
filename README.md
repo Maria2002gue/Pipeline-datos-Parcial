@@ -1,5 +1,5 @@
 # 🧠 Pipeline de Datos: Salud Mental y Redes Sociales
-**Ingeniería de Datos | Proyecto Final**
+**Ingeniería de Datos **
 
 Este repositorio contiene un flujo de trabajo **ETL** (Extract, Transform, Load) completo para analizar el impacto de los hábitos digitales en el bienestar de los adolescentes. El proyecto integra almacenamiento en GitHub, documentación técnica, visualización interactiva y lógica de orquestación.
 
